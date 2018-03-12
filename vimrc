@@ -10,6 +10,10 @@ set wildmenu " Allow autocomplete when available
 set showmatch " Highlight brackets when cursor is on one of the couple
 
 
+" Tabulacion
+set tabstop=4
+set shiftwidth=4
+
 
 " BINDS
 
