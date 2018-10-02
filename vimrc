@@ -1,21 +1,24 @@
 " CONFIG
 
-set mouse=v " Allow mouse use in GUI terminals
-syntax on " Enable syntax highlighting
-set autoindent " Autoindent on new line
-set number " Show line number
-set hlsearch " Highlight search occurrences/matches
-set cursorline " Underline actual line
-set wildmenu " Allow autocomplete when available
-set showmatch " Highlight brackets when cursor is on one of the couple
+set mouse=v " Admitir ratón en modo gráfico
+syntax on " Colorear de acuerdo a la sintaxis
+set autoindent " Autoindent al cambiar de línea
+set number " Mostrar número de línea
+set hlsearch " Resaltar busquedas encontradas
+set cursorline " Subrayar la linea actual
+set wildmenu " Autocompletar comandos
+set showmatch " Colorear parentesis correspondiente cuando el cursor esta sobre su pareja
 
 
 " Tabulacion
 set tabstop=4
 set shiftwidth=4
 
+" Habilitar consulta de man pages desde vim (:Man funcion)
+runtime ftplugin/man.vim
 
 " BINDS
 
-" Use space bar to toggle off search occurrences highlighting
+" Al pulsar espacio desactivar resaltado de busqueda
 nnoremap <space> :nohlsearch<CR>
+
