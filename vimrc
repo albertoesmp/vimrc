@@ -25,6 +25,9 @@ set tabstop=4
 set softtabstop=4
 set shiftwidth=4
 
+" Always show status line
+set laststatus=2
+
 
 
 " ---  B I N D S  --- "
