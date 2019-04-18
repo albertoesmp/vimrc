@@ -1,0 +1,13 @@
+config deafult path is:
+    ~/.config/terminator/config
+
+config default path can be overriden:
+    XDG_CONFIG_HOME=/path/
+considering config path will be
+    $XDG_CONFIG_HOME/terminator/config
+
+for extra info:
+    man terminator_config
+
+gtk.css file can be placed at ~/.config/gtk-3.0/gtk.css to reduce tab size
+(I consider they are too big by default)

@@ -1,0 +1,30 @@
+[global_config]
+  tab_position = bottom
+  title_inactive_bg_color = "#131313"
+  title_inactive_fg_color = "#13A600"
+  title_receive_bg_color = "#119900"
+  title_receive_fg_color = "#080808"
+  title_transmit_bg_color = "#13A608"
+  title_transmit_fg_color = "#080808"
+  title_use_system_font = False
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#01010C"
+    background_darkness = 0.85
+    background_type = transparent
+    cursor_color = DDDD99
+    font = Monospace Regular 8.5
+    foreground_color = "#DCDC99"
+    scrollback_lines = 65536
+    use_system_font = False
+    palette = "#000000:#E9290F:#00AA00:#EC8914:#19457B:#F166F1:#3FCDED:#AAAAAA:#555555:#FC5C73:#55FF55:#AC79FF:#A3DAFD:#FFBBFC:#BD5217:#F9F9F9"
