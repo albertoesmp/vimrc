@@ -62,6 +62,25 @@ Plugin 'scrooloose/nerdtree'
 " Powerline
 Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
 
+" IndentLine
+Bundle 'Yggdroot/indentLine'
+set list lcs=tab:\|\
+let g:indentLine_color_term = 136
+let g:indentLine_color_gui = '#E6E693'
+let g:indentLine_char = '┊'
+
+" ZoomWin
+Plugin 'ZoomWin'
+
+" Python
+Bundle 'klen/python-mode'
+Bundle 'python.vim'
+Bundle 'python_match.vim'
+Bundle 'pythoncomplete'
+Bundle 'jmcantrell/vim-virtualenv'
+
+" Git
+Plugin 'airblade/vim-gitgutter'
 
 " Close VUNDLE
 call vundle#end()
