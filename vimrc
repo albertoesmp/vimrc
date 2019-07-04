@@ -82,6 +82,9 @@ Bundle 'jmcantrell/vim-virtualenv'
 " Git
 Plugin 'airblade/vim-gitgutter'
 
+" GLSL highlighting
+Plugin 'tikhomirov/vim-glsl'
+
 " Close VUNDLE
 call vundle#end()
 filetype plugin indent on
