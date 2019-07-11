@@ -85,6 +85,17 @@ Plugin 'airblade/vim-gitgutter'
 " GLSL highlighting
 Plugin 'tikhomirov/vim-glsl'
 
+" Tag Bar (code scheme view)
+Plugin 'majutsushi/tagbar'
+
+" FZF (Fuzzy finder for file finding and commands)
+Plugin 'junegunn/fzf.vim'
+Plugin 'junegunn/fzf'
+
+" Neocomplete
+Plugin 'Shougo/neocomplete.vim'
+
+
 " Close VUNDLE
 call vundle#end()
 filetype plugin indent on
