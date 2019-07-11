@@ -85,8 +85,24 @@ Plugin 'airblade/vim-gitgutter'
 " GLSL highlighting
 Plugin 'tikhomirov/vim-glsl'
 
-" Tag Bar (code scheme view)
+" Tag List (code scheme view)
+Plugin 'universal-ctags/ctags'
+Plugin 'chudyu/vim-taglist'
 Plugin 'majutsushi/tagbar'
+" let Tlist_WinWidth = 30
+let Tlist_Use_Right_Window = 1
+" let Tlist_Auto_Open = 1
+" let Tlist_Auto_Update = 0
+" let Tlist_Close_On_Select = 1
+let Tlist_Display_Prototype = 1
+let Tlist_GainFocus_On_ToggleOpen = 1
+let Tlist_Exit_OnlyWindow = 1
+" process at background:
+" let Tlist_Process_File_Always = 1
+let Tlist_Enable_Fold_Column = 0
+" Keymap: <F8>
+noremap <F8> :TlistToggle<CR>
+"  }}}
 
 " FZF (Fuzzy finder for file finding and commands)
 Plugin 'junegunn/fzf.vim'
