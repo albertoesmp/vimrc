@@ -15,6 +15,7 @@ set autoindent " Autoindent when changing line
 set number " Show line number
 set hlsearch " Highlight search results
 set cursorline " Underline current line
+hi CursorLine term=bold cterm=bold ctermbg=0
 set wildmenu " Autocomplete commands
 set showmatch " Color brackets pairs
 set encoding=utf-8 " UTF-8 encoding
