@@ -29,7 +29,8 @@ set shiftwidth=4
 " Always show status line
 set laststatus=2
 
-
+" Set mapleader to comma (,)
+let mapleader = ","
 
 " ---  B I N D S  --- "
 " - - - - - - - - - - "
@@ -112,6 +113,16 @@ Plugin 'junegunn/fzf'
 " Neocomplete
 Plugin 'Shougo/neocomplete.vim'
 
+" Autoimport
+Plugin 'rustushki/JavaImp.vim'
+Plugin 'dbsr/vimpy'
+Plugin 'galooshi/vim-import-js'
+
+" Comments
+Plugin 'scrooloose/nerdcommenter'
+
+" Refactor
+Plugin 'apalmer1377/factorus'
 
 " Close VUNDLE
 call vundle#end()
