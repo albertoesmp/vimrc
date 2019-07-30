@@ -12,6 +12,7 @@
   [[default]]
     [[[child1]]]
       parent = window0
+      profile = default
       type = Terminal
     [[[window0]]]
       parent = ""
@@ -19,12 +20,12 @@
 [plugins]
 [profiles]
   [[default]]
-    background_color = "#01010C"
-    background_darkness = 0.85
+    background_color = "#151819"
+    background_darkness = 0.95
     background_type = transparent
-    cursor_color = DDDD99
-    font = Monospace Regular 8.5
-    foreground_color = "#DCDC99"
+    cursor_color = "#DCDC99"
+    font = Monospace 9
+    foreground_color = "#dcdc99"
+    palette = "#000000:#9a0b0b:#00aa00:#ec8914:#19457b:#f166f1:#3fcded:#aaaaaa:#555555:#fc5c73:#55ff55:#ac79ff:#a3dafd:#ffbbfc:#bd5217:#f9f9f9"
     scrollback_lines = 65536
     use_system_font = False
-    palette = "#000000:#E9290F:#00AA00:#EC8914:#19457B:#F166F1:#3FCDED:#AAAAAA:#555555:#FC5C73:#55FF55:#AC79FF:#A3DAFD:#FFBBFC:#BD5217:#F9F9F9"
