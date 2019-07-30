@@ -91,6 +91,9 @@ Plugin 'tikhomirov/vim-glsl'
 Plugin 'universal-ctags/ctags'
 Plugin 'chudyu/vim-taglist'
 Plugin 'majutsushi/tagbar'
+" Automatically update the tags with gutten tag! Wunderbar!
+Plugin 'ludovicchabant/vim-gutentags'
+
 " let Tlist_WinWidth = 30
 let Tlist_Use_Right_Window = 1
 " let Tlist_Auto_Open = 1
