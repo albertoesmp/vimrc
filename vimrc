@@ -36,7 +36,8 @@ let mapleader = ","
 " - - - - - - - - - - "
 " Space-bar for toggle of search highlighting
 nnoremap <space> :nohlsearch<CR>
-
+" Toggle NERDTree with F2
+nmap <F2> :NERDTreeToggle<CR>
 
 " ---  V U N D L E  --- "
 " - - - - - - - - - - - "
