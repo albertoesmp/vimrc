@@ -67,7 +67,7 @@ Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
 
 " IndentLine
 Bundle 'Yggdroot/indentLine'
-set list lcs=tab:\|\
+set list lcs=tab:__
 let g:indentLine_color_term = 136
 let g:indentLine_color_gui = '#E6E693'
 let g:indentLine_char = '┊'
