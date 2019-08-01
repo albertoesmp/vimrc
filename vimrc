@@ -119,7 +119,7 @@ Plugin 'Shougo/neocomplete.vim'
 
 " Autoimport
 Plugin 'rustushki/JavaImp.vim'
-Plugin 'dbsr/vimpy'
+Plugin 'mgedmin/python-imports.vim'
 Plugin 'galooshi/vim-import-js'
 
 " Comments
