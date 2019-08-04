@@ -128,6 +128,10 @@ Plugin 'scrooloose/nerdcommenter'
 " Refactor
 Plugin 'apalmer1377/factorus'
 
+" Flutter
+Plugin 'dart-lang/dart-vim-plugin'
+Plugin 'thosakwe/vim-flutter'
+
 " Close VUNDLE
 call vundle#end()
 filetype plugin indent on
