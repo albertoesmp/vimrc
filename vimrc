@@ -114,9 +114,6 @@ noremap <F8> :TlistToggle<CR>
 Plugin 'junegunn/fzf.vim'
 Plugin 'junegunn/fzf'
 
-" Neocomplete
-Plugin 'Shougo/neocomplete.vim'
-
 " Autoimport
 Plugin 'rustushki/JavaImp.vim'
 Plugin 'mgedmin/python-imports.vim'
