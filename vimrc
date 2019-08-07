@@ -116,6 +116,9 @@ Plugin 'junegunn/fzf'
 
 " Autoimport
 Plugin 'rustushki/JavaImp.vim'
+let g:JavaImpPathSep = ':'
+let g:JavaImpPaths = "."
+let g:JavaImpDataDir = $HOME . "/vim/JavaImp"
 Plugin 'mgedmin/python-imports.vim'
 Plugin 'galooshi/vim-import-js'
 
