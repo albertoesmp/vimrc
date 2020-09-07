@@ -32,12 +32,15 @@ set laststatus=2
 " Set mapleader to comma (,)
 let mapleader = ","
 
+" Set alt mapping
+execute "set <M-1>=\e1"
+
 " ---  B I N D S  --- "
 " - - - - - - - - - - "
 " Space-bar for toggle of search highlighting
 nnoremap <space> :nohlsearch<CR>
-" Toggle NERDTree with F2
-nmap <F2> :NERDTreeToggle<CR>
+" Toggle NERDTree with Alt+1
+nmap <M-1> :NERDTreeToggle<CR>
 
 " ---  V U N D L E  --- "
 " - - - - - - - - - - - "
