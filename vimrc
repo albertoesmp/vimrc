@@ -7,6 +7,7 @@
 " and accesible in order to work properly
 "
 
+
 " ---  B A S E  --- "
 " - - - - - - - - - "
 set mouse=v " Allow mouse on GUI mode
@@ -29,11 +30,17 @@ set shiftwidth=4
 " Always show status line
 set laststatus=2
 
+" Recognize .tex files
+let g:tex_flavor="latex"
+
 " Set mapleader to comma (,)
 let mapleader = ","
 
+
 " Set alt mapping
 execute "set <M-1>=\e1"
+
+
 
 " ---  B I N D S  --- "
 " - - - - - - - - - - "
@@ -41,6 +48,9 @@ execute "set <M-1>=\e1"
 nnoremap <space> :nohlsearch<CR>
 " Toggle NERDTree with Alt+1
 nmap <M-1> :NERDTreeToggle<CR>
+" Compile latex file with F8
+autocmd FileType tex nmap <buffer> <F8> :!latexmk -pdf %<CR>
+
 
 " ---  V U N D L E  --- "
 " - - - - - - - - - - - "
@@ -49,6 +59,7 @@ filetype off
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 Plugin 'gmarik/Vundle.vim'
+
 
 
 " ---  P L U G I N S  --- "
