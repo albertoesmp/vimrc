@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>WoodLeafGround</name>
+            <uuid>{c6c79130-1a25-4261-ad1a-13ab893ff015}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>2</range>
+        </Properties>
+        <Data>
+            <step r="164" g="74" b="1" pos="0"/>
+            <step r="64" g="171" b="4" pos="0.5"/>
+            <step r="246" g="211" b="45" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

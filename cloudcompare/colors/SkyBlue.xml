@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>SkyBlue</name>
+            <uuid>{b2ae416a-54ce-4270-b8f2-b290ffdd2fa6}</uuid>
+            <absolute>1</absolute>
+            <minValue>2829057.25</minValue>
+            <range>41182818.75</range>
+        </Properties>
+        <Data>
+            <step r="53" g="132" b="228" pos="0"/>
+            <step r="53" g="132" b="228" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

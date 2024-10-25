@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>ArCH_reduced7</name>
+            <uuid>{c3253b47-fc36-4df5-90b6-6745c7fb8514}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>6</range>
+        </Properties>
+        <Data>
+            <step r="241" g="230" b="107" pos="0"/>
+            <step r="255" g="108" b="0" pos="0.166666666667"/>
+            <step r="77" g="55" b="8" pos="0.333333333333"/>
+            <step r="211" g="9" b="187" pos="0.5"/>
+            <step r="250" g="174" b="235" pos="0.666666666667"/>
+            <step r="255" g="19" b="0" pos="0.833333333333"/>
+            <step r="72" g="55" b="220" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

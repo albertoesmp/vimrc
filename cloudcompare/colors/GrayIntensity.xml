@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>GrayIntensity</name>
+            <uuid>{a4c5228d-e7d8-4fce-bd75-992d0f6c3edb}</uuid>
+            <absolute>0</absolute>
+        </Properties>
+        <Data>
+            <step r="36" g="31" b="49" pos="0"/>
+            <step r="222" g="221" b="218" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>Pvedra_Veget</name>
+            <uuid>{dfb14228-3f57-41ef-b0fc-71e6c47c9a3e}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>3</range>
+        </Properties>
+        <Data>
+            <step r="168" g="126" b="0" pos="0"/>
+            <step r="40" g="103" b="255" pos="0.333333333333"/>
+            <step r="0" g="169" b="36" pos="0.666666666667"/>
+            <step r="255" g="0" b="0" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

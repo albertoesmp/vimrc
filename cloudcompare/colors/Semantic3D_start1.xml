@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>Semantic3D_start1</name>
+            <uuid>{9f8b6c7f-92d5-4095-9846-485bd83d89a6}</uuid>
+            <absolute>1</absolute>
+            <minValue>1</minValue>
+            <range>7</range>
+        </Properties>
+        <Data>
+            <step r="167" g="167" b="167" pos="0"/>
+            <step r="130" g="197" b="48" pos="0.142857142857"/>
+            <step r="14" g="87" b="0" pos="0.285714285714"/>
+            <step r="0" g="206" b="0" pos="0.428571428571"/>
+            <step r="230" g="74" b="36" pos="0.571428571429"/>
+            <step r="214" g="196" b="40" pos="0.714285714286"/>
+            <step r="0" g="28" b="248" pos="0.857142857143"/>
+            <step r="18" g="134" b="158" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

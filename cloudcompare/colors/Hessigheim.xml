@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>Hessigheim</name>
+            <uuid>{f04b60d9-33cf-4f5f-9b6c-cdcaa1970e25}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>9.999</range>
+        </Properties>
+        <Data>
+            <step r="178" g="203" b="47" pos="0"/>
+            <step r="114" g="114" b="114" pos="0.100010001"/>
+            <step r="32" g="151" b="163" pos="0.200020002"/>
+            <step r="168" g="33" b="107" pos="0.300030003"/>
+            <step r="218" g="99" b="70" pos="0.400040004"/>
+            <step r="255" g="215" b="136" pos="0.500050005001"/>
+            <step r="89" g="125" b="53" pos="0.600060006001"/>
+            <step r="0" g="128" b="65" pos="0.700070007001"/>
+            <step r="170" g="85" b="0" pos="0.800080008001"/>
+            <step r="252" g="225" b="5" pos="0.900090009001"/>
+            <step r="172" g="11" b="11" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

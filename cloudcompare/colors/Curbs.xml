@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>Curbs</name>
+            <uuid>{77646760-db82-4910-a2f3-207cb10bd37b}</uuid>
+            <absolute>0</absolute>
+        </Properties>
+        <Data>
+            <step r="152" g="106" b="68" pos="0"/>
+            <step r="246" g="211" b="45" pos="0.336667"/>
+            <step r="255" g="0" b="0" pos="0.666667"/>
+            <step r="153" g="193" b="241" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

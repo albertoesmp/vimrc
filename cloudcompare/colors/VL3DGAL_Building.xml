@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>VL3DGAL_Building</name>
+            <uuid>{abf1043e-679a-4ce4-b5ab-654299ed9ce1}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>2</range>
+        </Properties>
+        <Data>
+            <step r="218" g="95" b="0" pos="0"/>
+            <step r="0" g="92" b="206" pos="0.5"/>
+            <step r="84" g="84" b="84" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

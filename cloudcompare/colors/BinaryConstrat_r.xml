@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>BinaryContrast_r</name>
+            <uuid>{aa9cd8b6-ebb9-429a-b733-357e547c3f73}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>1</range>
+        </Properties>
+        <Data>
+            <step r="185" g="185" b="185" pos="0"/>
+            <step r="253" g="0" b="0" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

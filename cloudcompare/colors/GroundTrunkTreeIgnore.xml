@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>GroundTrunkTreeIgnore</name>
+            <uuid>{3688649d-27c8-4402-97b9-566c87b3eafe}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>3</range>
+        </Properties>
+        <Data>
+            <step r="245" g="210" b="45" pos="0"/>
+            <step r="161" g="74" b="1" pos="0.333333333333"/>
+            <step r="64" g="170" b="4" pos="0.666666666667"/>
+            <step r="234" g="234" b="234" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

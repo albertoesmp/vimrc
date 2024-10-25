@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>DALES_original_asobj</name>
+            <uuid>{5d0175e3-c12c-4570-b8a6-17a4f7818a05}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>8</range>
+        </Properties>
+        <Data>
+            <step r="0" g="0" b="0" pos="0"/>
+            <step r="0" g="0" b="0" pos="0.125"/>
+            <step r="0" g="0" b="0" pos="0.25"/>
+            <step r="189" g="23" b="0" pos="0.375"/>
+            <step r="212" g="188" b="48" pos="0.5"/>
+            <step r="31" g="192" b="213" pos="0.625"/>
+            <step r="218" g="2" b="183" pos="0.75"/>
+            <step r="159" g="159" b="159" pos="0.875"/>
+            <step r="0" g="0" b="0" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

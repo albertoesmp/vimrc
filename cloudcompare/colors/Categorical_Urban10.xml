@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>Cartogal_Urban10</name>
+            <uuid>{4a1fc371-d7f8-438b-b133-135ac93428c5}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>9</range>
+        </Properties>
+        <Data>
+            <step r="99" g="99" b="99" pos="0"/>
+            <step r="235" g="0" b="207" pos="0.111111111111"/>
+            <step r="0" g="243" b="255" pos="0.222222222222"/>
+            <step r="159" g="99" b="0" pos="0.333333333333"/>
+            <step r="255" g="119" b="0" pos="0.444444444444"/>
+            <step r="20" g="87" b="255" pos="0.555555555556"/>
+            <step r="7" g="150" b="0" pos="0.666666666667"/>
+            <step r="255" g="242" b="0" pos="0.777777777778"/>
+            <step r="168" g="0" b="0" pos="0.888888888889"/>
+            <step r="255" g="255" b="255" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>LightCream_0to1</name>
+            <uuid>{2a1d63b4-2fbb-4d46-bbf4-ba5b93ab952f}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>1</range>
+        </Properties>
+        <Data>
+            <step r="145" g="65" b="172" pos="0"/>
+            <step r="28" g="113" b="216" pos="0.333333"/>
+            <step r="46" g="194" b="126" pos="0.666667"/>
+            <step r="246" g="211" b="45" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

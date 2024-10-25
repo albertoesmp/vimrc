@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>VL3DGAL_Vegetation</name>
+            <uuid>{2bb65e66-fdee-42b7-b768-f61b0dbc3fba}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>2</range>
+        </Properties>
+        <Data>
+            <step r="15" g="181" b="0" pos="0"/>
+            <step r="6" g="0" b="175" pos="0.5"/>
+            <step r="84" g="84" b="84" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

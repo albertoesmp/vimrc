@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>Cyan</name>
+            <uuid>{ac424492-969d-4916-a9b3-0e8cf3967c83}</uuid>
+            <absolute>1</absolute>
+            <minValue>2829057.25</minValue>
+            <range>41182818.75</range>
+        </Properties>
+        <Data>
+            <step r="0" g="217" b="232" pos="0"/>
+            <step r="0" g="217" b="231" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>White</name>
+            <uuid>{54691cde-0251-477f-9bb7-1a155e0315fb}</uuid>
+            <absolute>1</absolute>
+            <minValue>2829057.25</minValue>
+            <range>41182818.75</range>
+        </Properties>
+        <Data>
+            <step r="255" g="255" b="255" pos="0"/>
+            <step r="255" g="255" b="255" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

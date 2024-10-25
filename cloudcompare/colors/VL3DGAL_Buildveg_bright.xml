@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>VL3DGAL_Buildveg_bright</name>
+            <uuid>{ccdddfce-6f74-4ece-9931-a43a3fbececf}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>3</range>
+        </Properties>
+        <Data>
+            <step r="239" g="104" b="0" pos="0"/>
+            <step r="9" g="198" b="16" pos="0.333333333333"/>
+            <step r="0" g="80" b="179" pos="0.666666666667"/>
+            <step r="84" g="84" b="84" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

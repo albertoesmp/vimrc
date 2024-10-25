@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>BlueRedWhite</name>
+            <uuid>{db5b03d7-ad88-422d-a0ef-90de3fb44b21}</uuid>
+            <absolute>0</absolute>
+        </Properties>
+        <Data>
+            <step r="0" g="0" b="255" pos="0"/>
+            <step r="254" g="0" b="0" pos="0.5"/>
+            <step r="254" g="254" b="254" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

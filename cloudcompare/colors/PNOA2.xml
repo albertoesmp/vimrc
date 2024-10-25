@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>PNOA2</name>
+            <uuid>{d303d719-89af-4fa3-b1b5-e58c9ab5d19a}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>17</range>
+        </Properties>
+        <Data>
+            <step r="255" g="255" b="255" pos="0"/>
+            <step r="206" g="174" b="0" pos="0.117647058824"/>
+            <step r="84" g="206" b="0" pos="0.176470588235"/>
+            <step r="31" g="134" b="0" pos="0.235294117647"/>
+            <step r="6" g="97" b="0" pos="0.294117647059"/>
+            <step r="248" g="0" b="23" pos="0.352941176471"/>
+            <step r="255" g="255" b="255" pos="0.411764705882"/>
+            <step r="247" g="244" b="242" pos="0.470588235294"/>
+            <step r="13" g="118" b="253" pos="0.529411764706"/>
+            <step r="229" g="219" b="209" pos="0.588235294118"/>
+            <step r="255" g="255" b="255" pos="0.941176470588"/>
+            <step r="82" g="255" b="246" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

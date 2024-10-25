@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>VL3DGAL_LMHVeg</name>
+            <uuid>{f20ed36c-17b3-4728-aa66-e637400196e3}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>4</range>
+        </Properties>
+        <Data>
+            <step r="162" g="181" b="0" pos="0"/>
+            <step r="32" g="107" b="7" pos="0.25"/>
+            <step r="0" g="246" b="0" pos="0.5"/>
+            <step r="6" g="0" b="175" pos="0.75"/>
+            <step r="84" g="84" b="84" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

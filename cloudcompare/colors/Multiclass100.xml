@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>Multiclass100</name>
+            <uuid>{d3f5ade6-adf6-4040-873f-695945b4626d}</uuid>
+            <absolute>0</absolute>
+        </Properties>
+        <Data>
+            <step r="255" g="0" b="0" pos="0"/>
+            <step r="255" g="255" b="0" pos="0.05"/>
+            <step r="0" g="255" b="0" pos="0.1"/>
+            <step r="0" g="255" b="255" pos="0.15"/>
+            <step r="0" g="0" b="255" pos="0.2"/>
+            <step r="255" g="0" b="255" pos="0.25"/>
+            <step r="255" g="0" b="0" pos="0.3"/>
+            <step r="255" g="255" b="0" pos="0.35"/>
+            <step r="56" g="179" b="4" pos="0.4"/>
+            <step r="0" g="0" b="255" pos="0.45"/>
+            <step r="166" g="228" b="74" pos="0.5"/>
+            <step r="0" g="255" b="255" pos="0.55"/>
+            <step r="0" g="0" b="255" pos="0.6"/>
+            <step r="255" g="0" b="255" pos="0.65"/>
+            <step r="255" g="40" b="0" pos="0.7"/>
+            <step r="255" g="255" b="0" pos="0.75"/>
+            <step r="0" g="255" b="0" pos="0.8"/>
+            <step r="0" g="255" b="255" pos="0.85"/>
+            <step r="0" g="0" b="255" pos="0.9"/>
+            <step r="255" g="0" b="255" pos="0.95"/>
+            <step r="255" g="0" b="0" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

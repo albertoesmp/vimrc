@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>LightGrayToDarkGreen</name>
+            <uuid>{5a14f601-8736-4966-a96b-0601aed9835a}</uuid>
+            <absolute>0</absolute>
+        </Properties>
+        <Data>
+            <step r="154" g="153" b="150" pos="0"/>
+            <step r="111" g="232" b="73" pos="0.333333333333"/>
+            <step r="0" g="255" b="0" pos="0.666666666667"/>
+            <step r="18" g="102" b="0" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

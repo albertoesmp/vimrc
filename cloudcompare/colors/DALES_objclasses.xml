@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>DALES_objclasses</name>
+            <uuid>{7455c29e-b279-4370-a3de-664b6c6caa04}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>4</range>
+        </Properties>
+        <Data>
+            <step r="190" g="23" b="0" pos="0"/>
+            <step r="213" g="189" b="48" pos="0.25"/>
+            <step r="44" g="222" b="209" pos="0.5"/>
+            <step r="219" g="2" b="184" pos="0.75"/>
+            <step r="142" g="142" b="142" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

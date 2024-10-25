@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>VegetSegment</name>
+            <uuid>{71c17c3a-844b-4af0-8c55-44b235df8fc1}</uuid>
+            <absolute>1</absolute>
+            <minValue>1</minValue>
+            <range>2</range>
+        </Properties>
+        <Data>
+            <step r="192" g="191" b="188" pos="0"/>
+            <step r="26" g="95" b="180" pos="0.5"/>
+            <step r="56" g="179" b="4" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

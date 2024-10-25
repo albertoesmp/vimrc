@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>Semantic3D_to_Hessigheim_reduced</name>
+            <uuid>{5842fe5b-3487-423b-a61f-97d77b1deb29}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>7</range>
+        </Properties>
+        <Data>
+            <step r="82" g="51" b="8" pos="0"/>
+            <step r="82" g="51" b="8" pos="0.142857142857"/>
+            <step r="8" g="153" b="0" pos="0.285714285714"/>
+            <step r="8" g="152" b="0" pos="0.424892703863"/>
+            <step r="224" g="27" b="36" pos="0.571428571429"/>
+            <step r="32" g="150" b="162" pos="0.714285714286"/>
+            <step r="32" g="150" b="162" pos="0.857142857143"/>
+            <step r="32" g="150" b="162" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

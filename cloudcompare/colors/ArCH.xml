@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>ArCH</name>
+            <uuid>{2280819e-80b6-442b-ab02-1a33ab344ea7}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>9</range>
+        </Properties>
+        <Data>
+            <step r="0" g="255" b="18" pos="0"/>
+            <step r="255" g="108" b="0" pos="0.0965665236052"/>
+            <step r="68" g="104" b="0" pos="0.222222222222"/>
+            <step r="77" g="55" b="8" pos="0.333333333333"/>
+            <step r="60" g="214" b="191" pos="0.444444444444"/>
+            <step r="242" g="231" b="107" pos="0.555555555556"/>
+            <step r="211" g="9" b="187" pos="0.666666666667"/>
+            <step r="250" g="174" b="235" pos="0.777777777778"/>
+            <step r="255" g="19" b="0" pos="0.888888888889"/>
+            <step r="72" g="55" b="220" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

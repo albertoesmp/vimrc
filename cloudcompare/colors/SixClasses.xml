@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>SixClasses</name>
+            <uuid>{7feacd33-bd47-4886-a0b0-026dbb78a018}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>6</range>
+        </Properties>
+        <Data>
+            <step r="6" g="189" b="210" pos="0"/>
+            <step r="186" g="108" b="16" pos="0.333333333333"/>
+            <step r="0" g="213" b="14" pos="0.666666666667"/>
+            <step r="255" g="0" b="0" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

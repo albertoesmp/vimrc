@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>VL3DGAL_Buildveg_alt</name>
+            <uuid>{c1b0df75-1e16-4ca6-ba50-32a4791ac2b5}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>3</range>
+        </Properties>
+        <Data>
+            <step r="218" g="14" b="0" pos="0"/>
+            <step r="0" g="134" b="5" pos="0.333333333333"/>
+            <step r="203" g="165" b="5" pos="0.666666666667"/>
+            <step r="84" g="84" b="84" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>Hessigheim_reduced_RG</name>
+            <uuid>{4df0acd6-fe08-4321-bf7c-37467157eaa1}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>9.999</range>
+        </Properties>
+        <Data>
+            <step r="82" g="51" b="8" pos="0"/>
+            <step r="82" g="51" b="8" pos="0.100010001"/>
+            <step r="32" g="151" b="163" pos="0.200020002"/>
+            <step r="32" g="151" b="163" pos="0.300030003"/>
+            <step r="129" g="61" b="156" pos="0.400040004"/>
+            <step r="129" g="61" b="156" pos="0.500050005001"/>
+            <step r="8" g="154" b="0" pos="0.600060006001"/>
+            <step r="8" g="154" b="0" pos="0.700070007001"/>
+            <step r="82" g="51" b="8" pos="0.800080008001"/>
+            <step r="32" g="151" b="163" pos="0.900090009001"/>
+            <step r="129" g="61" b="156" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>
