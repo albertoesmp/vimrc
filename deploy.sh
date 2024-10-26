@@ -16,8 +16,8 @@ vim -c VundleInstall -c qa
 
 # Configure terminator
 mkdir -p ~/.config/terminator/
-cp terminator/config ~/.config/terminator/config
 cp terminator/gtk.css ~/.config/gtk-3.0/gtk.css
+cp terminator/config ~/.config/terminator/config
 
 # Enable gitlog alias
 cat << EOF >> ~/.bashrc
