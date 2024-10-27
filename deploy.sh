@@ -38,6 +38,8 @@ if (( $(grep 'powerline' ~/.bashrc | wc -c) < 1 )); then
         /usr/share/powerline/config_files/colorschemes/shell/default.json
     sudo cp powerline/colorschemes/default.json \
         /usr/share/powerline/config_files/colorschemes/default.json
+    sudo cp powerline/colorschemes/themes/shell/__main__.json \
+        /usr/share/powerline/config_files/themes/shell/__main__.json
 fi
 
 # Configure XFCE4 GTK theme
