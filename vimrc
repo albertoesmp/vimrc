@@ -35,7 +35,7 @@ let g:tex_flavor="latex"
 
 " Set mapleader to comma (,)
 let mapleader = ","
-
+let maplocalleader = ","
 
 " Set alt mapping
 execute "set <M-1>=\e1"
@@ -64,6 +64,9 @@ Plugin 'gmarik/Vundle.vim'
 
 " ---  P L U G I N S  --- "
 " - - - - - - - - - - - - "
+" Enable filetype plugins
+filetype plugin on
+
 " Enable man pages from vim (:Man <name>)
 runtime ftplugin/man.vim
 
@@ -145,6 +148,12 @@ Plugin 'apalmer1377/factorus'
 " Flutter
 Plugin 'dart-lang/dart-vim-plugin'
 Plugin 'thosakwe/vim-flutter'
+
+" Latex
+Plugin 'lervag/vimtex'
+
+" Markdown
+Plugin 'iamcco/markdown-preview.nvim'
 
 " Close VUNDLE
 call vundle#end()
