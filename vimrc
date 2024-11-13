@@ -16,11 +16,15 @@ set autoindent " Autoindent when changing line
 set number " Show line number
 set hlsearch " Highlight search results
 set cursorline " Underline current line
-hi CursorLine term=bold cterm=bold ctermbg=0
+hi CursorLine term=bold cterm=bold ctermbg=235
 set wildmenu " Autocomplete commands
 set showmatch " Color brackets pairs
 set encoding=utf-8 " UTF-8 encoding
 set expandtab " Use spaces when tab
+
+" Vertical marks at 80 characters
+set colorcolumn=80
+highlight ColorColumn ctermbg=darkred
 
 " Indentation configuration
 set tabstop=4
@@ -32,6 +36,8 @@ set laststatus=2
 
 " Recognize .tex files
 let g:tex_flavor="latex"
+" Disable automatic replacement of LaTeX expressions by visual symbols
+let g:vimtex_syntax_conceal_disable = v:true
 
 " Set mapleader to comma (,)
 let mapleader = ","
@@ -48,8 +54,6 @@ execute "set <M-1>=\e1"
 nnoremap <space> :nohlsearch<CR>
 " Toggle NERDTree with Alt+1
 nmap <M-1> :NERDTreeToggle<CR>
-" Compile latex file with F8
-autocmd FileType tex nmap <buffer> <F8> :!latexmk -pdf %<CR>
 
 
 " ---  V U N D L E  --- "
@@ -151,6 +155,7 @@ Plugin 'thosakwe/vim-flutter'
 
 " Latex
 Plugin 'lervag/vimtex'
+" Disable automatic replacement of LaTeX expressions by visual symbols
 
 " Markdown
 Plugin 'iamcco/markdown-preview.nvim'
