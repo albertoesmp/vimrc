@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>S3DIS</name>
+            <uuid>{c425bd73-2cf6-4ca6-a65b-af2da7472294}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>12</range>
+        </Properties>
+        <Data>
+            <step r="97" g="53" b="131" pos="0"/>
+            <step r="220" g="138" b="221" pos="0.0833333333333"/>
+            <step r="229" g="165" b="10" pos="0.166666666667"/>
+            <step r="225" g="218" b="104" pos="0.25"/>
+            <step r="224" g="27" b="36" pos="0.333333333333"/>
+            <step r="221" g="97" b="102" pos="0.416666666667"/>
+            <step r="26" g="95" b="180" pos="0.5"/>
+            <step r="153" g="193" b="241" pos="0.583333333333"/>
+            <step r="134" g="94" b="60" pos="0.666666666667"/>
+            <step r="190" g="152" b="121" pos="0.75"/>
+            <step r="9" g="120" b="34" pos="0.833333333333"/>
+            <step r="77" g="211" b="107" pos="0.916666666667"/>
+            <step r="11" g="210" b="214" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>turbo_contrast</name>
+            <uuid>{2b6de94f-eb31-4830-9179-304e938885cc}</uuid>
+            <absolute>0</absolute>
+        </Properties>
+        <Data>
+            <step r="129" g="61" b="156" pos="0"/>
+            <step r="0" g="0" b="255" pos="0.05"/>
+            <step r="51" g="209" b="122" pos="0.2"/>
+            <step r="9" g="128" b="9" pos="0.5"/>
+            <step r="255" g="255" b="0" pos="0.8"/>
+            <step r="230" g="97" b="0" pos="0.95"/>
+            <step r="224" g="27" b="36" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>tajo_veg</name>
+            <uuid>{d499e830-02cf-4ebb-a3b8-cc9175fc3c18}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>3</range>
+        </Properties>
+        <Data>
+            <step r="206" g="187" b="22" pos="0"/>
+            <step r="7" g="163" b="59" pos="0.333333333333"/>
+            <step r="28" g="113" b="216" pos="0.666666666667"/>
+            <step r="174" g="0" b="39" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

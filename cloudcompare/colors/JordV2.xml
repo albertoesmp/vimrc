@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>JordV2</name>
+            <uuid>{7767dcbf-4a78-4afa-97c5-e667543a1c9d}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>2</range>
+        </Properties>
+        <Data>
+            <step r="28" g="113" b="216" pos="0"/>
+            <step r="2" g="130" b="0" pos="0.5"/>
+            <step r="224" g="27" b="36" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>tajo_lmhveg</name>
+            <uuid>{c0d5375e-a7d4-492e-a047-073cc31e69a5}</uuid>
+            <absolute>1</absolute>
+            <minValue>2</minValue>
+            <range>4</range>
+        </Properties>
+        <Data>
+            <step r="134" g="94" b="60" pos="0"/>
+            <step r="157" g="228" b="6" pos="0.25"/>
+            <step r="2" g="130" b="0" pos="0.5"/>
+            <step r="4" g="90" b="66" pos="0.75"/>
+            <step r="224" g="27" b="36" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>
