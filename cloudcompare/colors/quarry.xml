@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>quarry</name>
+            <uuid>{46bee223-1b1c-4b3c-bfcf-8099e68ec2b1}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>5</range>
+        </Properties>
+        <Data>
+            <step r="152" g="106" b="68" pos="0"/>
+            <step r="26" g="95" b="180" pos="0.2"/>
+            <step r="9" g="120" b="34" pos="0.4"/>
+            <step r="192" g="97" b="203" pos="0.6"/>
+            <step r="224" g="27" b="36" pos="0.8"/>
+            <step r="154" g="153" b="150" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>
