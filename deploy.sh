@@ -47,5 +47,10 @@ cd theme
 ./install.sh
 cd ..
 
+# Configure markserv (local node markdown server) theme
+cd markserv
+./install.sh
+cd ..
+
 
 

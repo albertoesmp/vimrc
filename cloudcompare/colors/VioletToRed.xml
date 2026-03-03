@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>VioletToRed</name>
+            <uuid>{fc3f7407-324a-4c47-bcf7-ba5c1f5da25a}</uuid>
+            <absolute>0</absolute>
+        </Properties>
+        <Data>
+            <step r="145" g="65" b="172" pos="0"/>
+            <step r="0" g="0" b="255" pos="0.15"/>
+            <step r="51" g="209" b="122" pos="0.3"/>
+            <step r="100" g="202" b="5" pos="0.45"/>
+            <step r="246" g="211" b="45" pos="0.6"/>
+            <step r="255" g="120" b="0" pos="0.8"/>
+            <step r="255" g="0" b="0" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>
