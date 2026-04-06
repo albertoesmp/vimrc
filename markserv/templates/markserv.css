@@ -432,11 +432,11 @@ li.icon {
   border: 1px solid #ddd;
 }
 .markdown-body table tr {
-  background-color: #fff;
+  background-color: #202020;
   border-top: 1px solid #ccc;
 }
 .markdown-body table tr:nth-child(2n) {
-  background-color: #f8f8f8;
+  background-color: #333333;
 }
 .markdown-body img {
   max-width: 100%;
@@ -631,5 +631,9 @@ a.button.back {
 }
 
 .hljs {
+    color: #F6C333;
+}
+
+.MJX-TEX {
     color: #F6C333;
 }

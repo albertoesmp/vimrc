@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>ZAHA</name>
+            <uuid>{cb995d7c-356c-4539-ad6f-a95d0b51962f}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>15</range>
+        </Properties>
+        <Data>
+            <step r="0" g="0" b="0" pos="0"/>
+            <step r="254" g="251" b="171" pos="0.0666666666667"/>
+            <step r="153" g="193" b="241" pos="0.133333333333"/>
+            <step r="230" g="97" b="0" pos="0.2"/>
+            <step r="38" g="162" b="105" pos="0.266666666667"/>
+            <step r="192" g="97" b="203" pos="0.333333333333"/>
+            <step r="28" g="218" b="255" pos="0.4"/>
+            <step r="237" g="51" b="59" pos="0.466666666667"/>
+            <step r="53" g="132" b="228" pos="0.533333333333"/>
+            <step r="158" g="129" b="94" pos="0.6"/>
+            <step r="84" g="202" b="24" pos="0.666666666667"/>
+            <step r="161" g="224" b="151" pos="0.733333333333"/>
+            <step r="165" g="29" b="45" pos="0.8"/>
+            <step r="58" g="106" b="49" pos="0.866666666667"/>
+            <step r="246" g="211" b="45" pos="0.93347639485"/>
+            <step r="119" g="118" b="123" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

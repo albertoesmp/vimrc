@@ -39,6 +39,10 @@ let g:tex_flavor="latex"
 " Disable automatic replacement of LaTeX expressions by visual symbols
 let g:vimtex_syntax_conceal_disable = v:true
 
+" Prevent LaTeX syntax from using italics or bold globally (Math variables)
+let g:tex_no_italic = 1
+let g:tex_no_bold = 1
+
 " Set mapleader to comma (,)
 let mapleader = ","
 let maplocalleader = ","
@@ -165,13 +169,46 @@ call vundle#end()
 filetype plugin indent on
 
 
+" ---  M A R K D O W N  M A T H  --- "
+" - - - - - - - - - - - - - - - - -  "
+function! FixMarkdownMath()
+    " 1. Force-clear all attributes from TeX math and styling groups.
+    let l:math_groups = [
+        \ 'texMathItalic', 'texSubscript', 'texSuperscript', 'texMathSymbol', 
+        \ 'texMathText', 'texMathGroup', 'texMathSeries', 'texStatement',
+        \ 'texItalicStyle', 'texBoldStyle', 'texTypeStyle', 'texMathDelim',
+        \ 'texMathZoneV', 'texMathZoneW', 'texMathZoneX', 'texMathZone'
+    \ ]
+    for l:grp in l:math_groups
+        execute 'highlight! ' . l:grp . ' term=NONE cterm=NONE gui=NONE'
+        execute 'highlight! link ' . l:grp . ' Normal'
+    endfor
+
+    " 2. Reset all LaTeX Math Zones (used by vimtex and standard tex syntax).
+    for zone in ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y']
+        execute 'highlight! texMathZone' . zone . ' term=NONE cterm=NONE gui=NONE'
+        execute 'highlight! link texMathZone' . zone . ' Normal'
+    endfor
+
+    " 3. Block Markdown emphasis from matching inside math.
+    syntax region markdownMathInline start="\$" end="\$" skip="\\\$" contains=@texMath,texMathZoneV,@NoSpell
+    syntax region markdownMathBlock start="\$\$" end="\$\$" contains=@texMath,texMathZoneW,@NoSpell
+    
+    hi! link markdownMathInline Normal
+    hi! link markdownMathBlock Normal
+endfunction
+
+augroup MarkdownMathStyle
+    autocmd!
+    autocmd FileType markdown call FixMarkdownMath()
+    autocmd Syntax markdown call FixMarkdownMath()
+    autocmd ColorScheme * call FixMarkdownMath()
+augroup END
+
+
 
 "
-"   / \		WARNING!
-"  / | \	Dont forget tu call command: ':PluginInstall' when inside vim
-" /  .  \	at least once to ensure plugins installation
+"   / \         WARNING!
+"  / | \        Dont forget tu call command: ':PluginInstall' when inside vim
+" /  .  \       at least once to ensure plugins installation
 " -------
-
-
-
-
