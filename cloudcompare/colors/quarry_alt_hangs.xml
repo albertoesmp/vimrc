@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>quarry_alt_hangs</name>
+            <uuid>{37eff79f-99a3-4493-956b-49c34e1b94c6}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>7</range>
+        </Properties>
+        <Data>
+            <step r="245" g="194" b="17" pos="0"/>
+            <step r="129" g="61" b="156" pos="0.142857142857"/>
+            <step r="255" g="120" b="0" pos="0.285714285714"/>
+            <step r="153" g="193" b="241" pos="0.428571428571"/>
+            <step r="9" g="124" b="27" pos="0.571428571429"/>
+            <step r="11" g="210" b="214" pos="0.714285714286"/>
+            <step r="224" g="27" b="36" pos="0.857142857143"/>
+            <step r="154" g="153" b="150" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>
